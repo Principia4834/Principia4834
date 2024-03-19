@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AmdyW (@Principia4834)
+- 👋 Hi, I’m AndyW (@Principia4834)
 - I’m interested in microprocessor systems (Arduino, Z-Uno2), Windows development (C#, C++, application and device drivers), hardware design and manufacture, home automation, Z-Wave, KNX
 
 <!---
